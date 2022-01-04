@@ -1,7 +1,13 @@
 Comandos GIT
 
 - git init (Inicializa o GIT em um repositório)
+
 - git status (Verifica os arquivos do repositório)
+
 - git add "..." {Nome do arquivo} (Enviar o arquivo para ser comittado)
 ou ' .' (Para adicionar todos os arquivos untracked)
+
+- git commit -m "..." {Mensagem do commit} (Comitar arquivos)
+
+- git push (Puxar o commit para o GitHub)
 
