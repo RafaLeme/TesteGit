@@ -11,3 +11,20 @@ ou ' .' (Para adicionar todos os arquivos untracked)
 
 - git push (Puxar o commit para o GitHub)
 
+- git reflog (Historico de alterações)
+
+- git reset -- hard {ID da alteração} (Retornar o arquivo para versões anteriores)
+
+- git branch (Mostra as branchs disponiveis)
+
+- git branch {Nome da branch a ser criada} (Criar uma no branch)
+
+- git checkout {Nome da branch} (Mudar de branch)
+
+- git merge {Nome da branch a puxar os arquivos} (Unir alterações dos arquivos da branch selecionada)
+
+- git pull (Atualização dos arquivos do servidor para a máquina)
+	*Ideal fazer sempre antes de usar o merge
+
+- touch .gitignore (Cria arquivo de texto para ignorar arquivos do controle de versão)
+
